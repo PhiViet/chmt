@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<product>
+  <pc>
+    <id>HH01</id>
+    <ten>E403NA</ten>
+    <hang>ASSUS</hang>
+    <image>acer A515.jpg</image>
+    <chipset>Intel</chipset>
+    <cpu>2.5GHz</cpu>
+    <cd>SDD</cd>
+    <gia>13000000</gia>
+  </pc>
+  <pc>
+    <id>HH02</id>
+    <ten>6006U</ten>
+    <hang>ASSUS</hang>
+    <image>asus E403NA.png</image>
+    <chipset>Intel</chipset>
+    <cpu>2.5GHz</cpu>
+    <cd>SDD</cd>
+    <gia>15000000</gia>
+  </pc>
+  <pc>
+    <id>HH03</id>
+    <ten>6006U</ten>
+    <hang>HP</hang>
+    <image>hp 6006U.jpg</image>
+    <chipset>Intel</chipset>
+    <cpu>2.6MHz</cpu>
+    <cd>SDD</cd>
+    <gia>13000000</gia>
+  </pc>
+  <pc>
+    <id>HH04</id>
+    <ten>OK</ten>
+    <hang>DELL</hang>
+    <image>hp 6006U.jpg</image>
+    <chipset>Intel</chipset>
+    <cpu>2.6MHz</cpu>
+    <cd>SDD</cd>
+    <gia>13000000</gia>
+  </pc>
+</product>

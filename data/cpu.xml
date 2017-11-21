@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<cpu>
+  <hang>
+    <id>H01</id>
+    <ten>Intel</ten>
+    <mota>M&#x1EF9;</mota>
+  </hang>
+  <hang>
+    <id>H02</id>
+    <ten>ARM</ten>
+    <mota>M&#x1EF9;</mota>
+  </hang>
+  <hang>
+    <id>H03</id>
+    <ten>OK</ten>
+    <mota>OK</mota>
+  </hang>
+</cpu>

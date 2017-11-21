@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoices>
+  <invoice>
+    <ID>1</ID>
+    <tenKH>Việt</tenKH>
+    <SDT>0902462195</SDT>
+    <product>
+      <id>HH03</id>
+      <ten>6006U</ten>
+      <hang>HP</hang>
+      <qty>3</qty>
+      <gia>13000000</gia>
+      <thanhtien>39000000</thanhtien>
+    </product>
+    <product>
+      <id>HH01</id>
+      <ten>E403NA</ten>
+      <hang>ASSUS</hang>
+      <qty>1</qty>
+      <gia>13000000</gia>
+      <thanhtien>13000000</thanhtien>
+    </product>
+  </invoice>
+  <invoice>
+    <ID>2</ID>
+    <tenKH>Hòa Việt</tenKH>
+    <SDT>090</SDT>
+    <product>
+      <id>HH03</id>
+      <ten>6006U</ten>
+      <hang>HP</hang>
+      <qty>1</qty>
+      <gia>13000000</gia>
+      <thanhtien>13000000</thanhtien>
+    </product>
+  </invoice>
+    <invoice>
+    <ID>3</ID>
+    <tenKH>Hòa Việt</tenKH>
+    <SDT>090</SDT>
+    <product>
+      <id>HH03</id>
+      <ten>6006U</ten>
+      <hang>HP</hang>
+      <qty>1</qty>
+      <gia>13000000</gia>
+      <thanhtien>13000000</thanhtien>
+    </product>
+  </invoice>
+</invoices>

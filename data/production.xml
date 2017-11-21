@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<production>
+  <hang>
+    <id>H01</id>
+    <ten>DELL</ten>
+    <mota>M&#x1EF9;</mota>
+  </hang>
+  <hang>
+    <id>H02</id>
+    <ten>ASSUS</ten>
+    <mota>Trung Qu&#x1ED1;c</mota>
+  </hang>
+  <hang>
+    <id>H03</id>
+    <ten>HP</ten>
+    <mota>M&#x1EF9;</mota>
+  </hang>
+  <hang>
+    <id>H04</id>
+    <ten>Acer</ten>
+    <mota>&#x110;&#xE0;i Loan</mota>
+  </hang>
+  <hang>
+    <id>H05</id>
+    <ten>Lenovo</ten>
+    <mota>&#x110;&#xE0;i Loan</mota>
+  </hang>
+</production>
